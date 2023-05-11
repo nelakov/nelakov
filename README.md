@@ -29,6 +29,11 @@ I am a Full Stack Quality Assurance Engineer  (Auto / Manual) with three and hal
 Strong skills in establishing QA processes, experience building and leading manual QA teams, reporting progress and results to stakeholders. 
 Proficient in creating test automation frameworks for backend REST APIs, iOS and Android native apps, and Web using Java. Rest Assured or Retrofit for API, Selenide / Selenoid for Web and Appium for Mobile. Extensive experience investigating automated test failures and flakiness. Excellent knowledge of full system development lifecycle, Agile and SCRUM. Highly detailed-oriented and hard-working engineer with great problem-solving skills
 
+## SKILLS
+- **Languages**: English (B1), Russian (native)
+- **Programming languages and Tools**: Java (2 y.), jUnit5, Maven, Gradle, PostreSQL, Oracle, Selenium, Selenide, Selenoid, Appium, Cucumber, Allure, RestAssured, Retrofit, Kubernetes, Docker, Helm, Gitlab, Jenkins, Postman, BloomRPC, Charles Proxy, Fiddler, DevTools, Kibana, GrayLog, Jira, TestRail, Allure TestOps
+- **Technical skills**: Software Quality Assurance, Quality Control, Test Automation, Scripting, Continuous delivery, Test Planning, Detail Oriented, Regression Testing, Test Cases, Agile Methodologies, Compliance, Documentation, Innovation, Collaboration, Customer Service, Communication Skills
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-NICK_ELAKOV-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitaelakov/)
 
 
