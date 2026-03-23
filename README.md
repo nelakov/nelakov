@@ -46,14 +46,16 @@ Engineer who built QA from the ground up — and then crossed over to write the 
 
 ### Projects
 
-🔬 [rangiffler](https://github.com/nelakov/rangiffler) — Microservice application (Java, Spring, gRPC, Docker)
+🎓 [thank-go-practice](https://github.com/nelakov/thank-go-practice) — Go practice: basics → concurrency → stdlib
 
-🐳 [orchestrator](https://github.com/nelakov/orchestrator) — Distributed host management via docker-compose (Kotlin)
+💬 [tcp-chat-java](https://github.com/nelakov/tcp-chat-java) — TCP client-server chat with message serialization, archiving, and command processing
 
-🎬 [demo-autotest-project-for-vivid](https://github.com/nelakov/demo-autotest-project-for-vivid) — UI test automation + full CI/CD pipeline: Jenkins, Allure, Selenoid, Telegram
+🔬 [rangiffler](https://github.com/nelakov/rangiffler) — Travel social network (6 microservices): OAuth 2.0, gRPC, Kafka, React, MySQL + E2E test framework
 
-📱 [demo-wikipedia-test-mobile-framework](https://github.com/nelakov/demo-wikipedia-test-mobile-framework) — Mobile testing framework (Appium, Java)
+🎬 [demo-autotest-project-for-vivid](https://github.com/nelakov/demo-autotest-project-for-vivid) — UI test automation for a fintech web app: Selenide, JUnit 5, Selenoid, Jenkins, Allure TestOps, Jira, Telegram
 
-🧪 [demo-spring-boot-api-test](https://github.com/nelakov/demo-spring-boot-api-test) — API testing with Spring Boot
+📱 [demo-wikipedia-test-mobile-framework](https://github.com/nelakov/demo-wikipedia-test-mobile-framework) — Mobile test automation: Appium, BrowserStack / emulator / real device, strategy-pattern drivers
 
-🔗 [demo-interactive-test-api-framework](https://github.com/nelakov/demo-interactive-test-api-framework) — Interactive API test framework
+🧪 [demo-spring-boot-api-test](https://github.com/nelakov/demo-spring-boot-api-test) — Spring Boot REST API + JUnit 5 / REST Assured test suite, Swagger, custom Allure reporting
+
+🔗 [demo-interactive-test-api-framework](https://github.com/nelakov/demo-interactive-test-api-framework) — API test framework: REST Assured, JSON Schema validation (v2/v3), Jenkins CI/CD, Telegram
