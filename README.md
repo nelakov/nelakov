@@ -64,12 +64,12 @@ Engineer who built QA from the ground up — then crossed over to write the code
 
 #### Test Automation & QA
 
-🏦 [demo-alfabank-test-framework](https://github.com/nelakov/demo-alfabank-test-framework) — Multi-layer (UI · API · DB) test automation for a fintech payment web app: Selenide, REST-Assured, JUnit 5, Allure, Docker Compose
+🏦 [alfabank-journey-of-the-day-autotests](https://github.com/nelakov/alfabank-journey-of-the-day-autotests) — Multi-layer (UI · API · DB) automation for a fintech payment web app — dual-DB (MySQL / PostgreSQL): Selenide, REST-Assured, JUnit 5, Allure, Docker Compose
 
-🎬 [demo-autotest-project-for-vivid](https://github.com/nelakov/demo-autotest-project-for-vivid) — UI test automation for a fintech web app: Selenide, JUnit 5, Selenoid, Jenkins, Allure TestOps, Jira, Telegram
+🎬 [vivid-ui-tests](https://github.com/nelakov/vivid-ui-tests) — End-to-end UI automation for the Vivid Money web app: Page Object Model, parallel runs, local or Selenoid grid, Allure (video + logs), Jenkins, Telegram
 
-📱 [demo-wikipedia-test-mobile-framework](https://github.com/nelakov/demo-wikipedia-test-mobile-framework) — Mobile test automation: Appium, BrowserStack / emulator / real device, strategy-pattern drivers
+📱 [wikipedia-android-ui-tests](https://github.com/nelakov/wikipedia-android-ui-tests) — Mobile UI automation for the Wikipedia Android app — runs unchanged on BrowserStack cloud, emulator, or real device: Appium, Selenide, JUnit, Allure, Jenkins
 
-🧪 [demo-spring-boot-api-test](https://github.com/nelakov/demo-spring-boot-api-test) — Spring Boot REST API + JUnit 5 / REST Assured test suite, Swagger, custom Allure reporting
+🧪 [spring-api-testing-demo](https://github.com/nelakov/spring-api-testing-demo) — Spring Boot REST service (books / authors) + black-box REST-Assured suite: OpenAPI 3.1 / Swagger, Allure
 
-🔗 [demo-interactive-test-api-framework](https://github.com/nelakov/demo-interactive-test-api-framework) — API test framework: REST Assured, JSON Schema validation (v2/v3), Jenkins CI/CD, Telegram
+🔗 [rest-api-test-framework](https://github.com/nelakov/rest-api-test-framework) — REST API framework — contract-first JSON Schema validation, data-driven: REST-Assured, Allure, Swagger, Jenkins, Telegram
