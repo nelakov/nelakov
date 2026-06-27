@@ -22,7 +22,7 @@
 
 > 🟢 **Open to Go backend roles.** Remote &nbsp;·&nbsp; 📍 Barcelona, Spain (GMT+1) &nbsp;·&nbsp; contractor / B2B (Georgian sole proprietorship)
 
-I set up QA from scratch on a fintech platform, then moved over to writing the backend. 6 years in fintech so far: investments, origination/KYC, payments, order management. Working both sides taught me where these systems break and how to keep them from breaking.
+I set up QA from scratch on a fintech platform, then moved over to writing the backend. Six years across investments, origination/KYC, payments, and order management. Working both sides taught me where these systems break and how to keep them from breaking.
 
 Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges, custody, on-ramps, payment rails) runs on the same domains I already know: onboarding and KYC, money movement, order flow.
 
