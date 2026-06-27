@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nelakov&style=flat-square&color=blue" alt="Profile views"/>
-
-  <a href="https://www.linkedin.com/in/nikitaelakov/">
+  <a href="https://www.linkedin.com/in/nelakov/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nelakov24@gmail.com">
@@ -18,9 +16,9 @@
 
 # Go Backend Engineer
 
-**6 years in fintech** · ex-QA Automation Lead
+**6 years in fintech** · ex-Quality Assurance Team Lead
 
-> 🟢 **Open to Go backend roles.** Remote &nbsp;·&nbsp; 📍 Barcelona, Spain (GMT+1) &nbsp;·&nbsp; contractor / B2B (Georgian sole proprietorship)
+> 🟢 **Open to Go backend roles.** Remote &nbsp;·&nbsp; 📍 Barcelona, Spain (GMT+1) &nbsp;·&nbsp; contractor / B2B
 
 I set up QA from scratch on a fintech platform, then moved over to writing the backend. Six years across investments, origination/KYC, payments, and order management. Working both sides taught me where these systems break and how to keep them from breaking.
 
@@ -34,25 +32,13 @@ Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges
 
 ### Tech Stack
 
-**Backend**
+**Backend:** Go, gRPC, REST, Kafka, Camunda
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
+**Data:** PostgreSQL, MongoDB
 
-**Data**
+**Infrastructure:** Docker, Kubernetes
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Also:** Java · Kotlin · Spring
+**Also:** Java, Kotlin, Spring
 
 ---
 
@@ -60,20 +46,20 @@ Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges
 
 #### Backend & Systems
 
-🔬 [rangiffler](https://github.com/nelakov/rangiffler) - microservices travel social network. Spring Boot, gRPC, Kafka, OAuth2, MySQL, a React frontend, plus a full E2E suite.
+[rangiffler](https://github.com/nelakov/rangiffler) - microservices travel social network. Spring Boot, gRPC, Kafka, OAuth2, MySQL, a React frontend, plus a full E2E suite.
 
-🎓 [thank-go-practice](https://github.com/nelakov/thank-go-practice) - my solutions for the Stepik "Thank Go!" course: fundamentals, concurrency, the standard library.
+[thank-go-practice](https://github.com/nelakov/thank-go-practice) - my solutions for the Stepik "Thank Go!" course: fundamentals, concurrency, the standard library.
 
-💬 [tcp-chat-java](https://github.com/nelakov/tcp-chat-java) - multi-client TCP chat in plain Java. Sockets, a small wire protocol, in-memory history.
+[tcp-chat-java](https://github.com/nelakov/tcp-chat-java) - multi-client TCP chat in plain Java. Sockets, a small wire protocol, in-memory history.
 
 #### Test Automation & QA
 
-🏦 [alfabank-journey-of-the-day-autotests](https://github.com/nelakov/alfabank-journey-of-the-day-autotests) - UI, API and DB tests for a fintech payment app, running against both MySQL and PostgreSQL. Selenide, REST-Assured, JUnit 5, Allure, Docker Compose.
+[alfabank-journey-of-the-day-autotests](https://github.com/nelakov/alfabank-journey-of-the-day-autotests) - UI, API and DB tests for a fintech payment app, running against both MySQL and PostgreSQL. Selenide, REST-Assured, JUnit 5, Allure, Docker Compose.
 
-🎬 [vivid-ui-tests](https://github.com/nelakov/vivid-ui-tests) - end-to-end UI tests for the Vivid Money web app. Page Object Model, parallel runs, local or Selenoid grid, Allure with video and logs, Jenkins, Telegram.
+[vivid-ui-tests](https://github.com/nelakov/vivid-ui-tests) - end-to-end UI tests for the Vivid Money web app. Page Object Model, parallel runs, local or Selenoid grid, Allure with video and logs, Jenkins, Telegram.
 
-📱 [wikipedia-android-ui-tests](https://github.com/nelakov/wikipedia-android-ui-tests) - mobile UI tests for the Wikipedia Android app. The same code runs on BrowserStack, an emulator, or a real device. Appium, Selenide, JUnit, Allure, Jenkins.
+[wikipedia-android-ui-tests](https://github.com/nelakov/wikipedia-android-ui-tests) - mobile UI tests for the Wikipedia Android app. The same code runs on BrowserStack, an emulator, or a real device. Appium, Selenide, JUnit, Allure, Jenkins.
 
-🧪 [spring-api-testing-demo](https://github.com/nelakov/spring-api-testing-demo) - Spring Boot books/authors REST service with a black-box REST-Assured suite. OpenAPI 3.1, Swagger, Allure.
+[spring-api-testing-demo](https://github.com/nelakov/spring-api-testing-demo) - Spring Boot books/authors REST service with a black-box REST-Assured suite. OpenAPI 3.1, Swagger, Allure.
 
-🔗 [rest-api-test-framework](https://github.com/nelakov/rest-api-test-framework) - REST API tests with contract-first JSON Schema validation and data-driven cases. REST-Assured, Allure, Swagger, Jenkins, Telegram.
+[rest-api-test-framework](https://github.com/nelakov/rest-api-test-framework) - REST API tests with contract-first JSON Schema validation and data-driven cases. REST-Assured, Allure, Swagger, Jenkins, Telegram.
