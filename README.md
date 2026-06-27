@@ -18,11 +18,13 @@
 
 # Go Backend Engineer
 
-**5+ years in fintech** · ex-QA Automation Lead
+**6 years in fintech** · ex-QA Automation Lead
 
-> 🟢 **Open to Go backend roles** — Remote / Relocation &nbsp;·&nbsp; 📍 Tbilisi, Georgia (GMT+4)
+> 🟢 **Open to Go backend roles.** Remote &nbsp;·&nbsp; 📍 Barcelona, Spain (GMT+1) &nbsp;·&nbsp; contractor / B2B (Georgian sole proprietorship)
 
-Engineer who built QA from the ground up — then crossed over to write the code. 5+ years in fintech: investments, KYC, payments, origination. I've seen production systems from both sides — what breaks, why, and how to build them so they don't.
+I set up QA from scratch on a fintech platform, then moved over to writing the backend. 6 years in fintech so far: investments, origination/KYC, payments, order management. Working both sides taught me where these systems break and how to keep them from breaking.
+
+Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges, custody, on-ramps, payment rails) runs on the same domains I already know: onboarding and KYC, money movement, order flow.
 
 <a href="https://docs.google.com/document/d/1pezsazO8LrP1UdcnqO2H_y--jwydaup7/edit?usp=sharing&ouid=103994961142484846867&rtpof=true&sd=true">
   <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV"/>
@@ -50,26 +52,28 @@ Engineer who built QA from the ground up — then crossed over to write the code
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+**Also:** Java · Kotlin · Spring
+
 ---
 
 ### Projects
 
 #### Backend & Systems
 
-🔬 [rangiffler](https://github.com/nelakov/rangiffler) — Microservices travel social network: gRPC, Kafka, OAuth 2.0, MySQL, React frontend — with a full E2E test framework
+🔬 [rangiffler](https://github.com/nelakov/rangiffler) - microservices travel social network. Spring Boot, gRPC, Kafka, OAuth2, MySQL, a React frontend, plus a full E2E suite.
 
-🎓 [thank-go-practice](https://github.com/nelakov/thank-go-practice) — Go from the ground up: fundamentals, concurrency, standard library
+🎓 [thank-go-practice](https://github.com/nelakov/thank-go-practice) - my solutions for the Stepik "Thank Go!" course: fundamentals, concurrency, the standard library.
 
-💬 [tcp-chat-java](https://github.com/nelakov/tcp-chat-java) — TCP client-server chat: custom message serialization, history archiving, command protocol
+💬 [tcp-chat-java](https://github.com/nelakov/tcp-chat-java) - multi-client TCP chat in plain Java. Sockets, a small wire protocol, in-memory history.
 
 #### Test Automation & QA
 
-🏦 [alfabank-journey-of-the-day-autotests](https://github.com/nelakov/alfabank-journey-of-the-day-autotests) — Multi-layer (UI · API · DB) automation for a fintech payment web app — dual-DB (MySQL / PostgreSQL): Selenide, REST-Assured, JUnit 5, Allure, Docker Compose
+🏦 [alfabank-journey-of-the-day-autotests](https://github.com/nelakov/alfabank-journey-of-the-day-autotests) - UI, API and DB tests for a fintech payment app, running against both MySQL and PostgreSQL. Selenide, REST-Assured, JUnit 5, Allure, Docker Compose.
 
-🎬 [vivid-ui-tests](https://github.com/nelakov/vivid-ui-tests) — End-to-end UI automation for the Vivid Money web app: Page Object Model, parallel runs, local or Selenoid grid, Allure (video + logs), Jenkins, Telegram
+🎬 [vivid-ui-tests](https://github.com/nelakov/vivid-ui-tests) - end-to-end UI tests for the Vivid Money web app. Page Object Model, parallel runs, local or Selenoid grid, Allure with video and logs, Jenkins, Telegram.
 
-📱 [wikipedia-android-ui-tests](https://github.com/nelakov/wikipedia-android-ui-tests) — Mobile UI automation for the Wikipedia Android app — runs unchanged on BrowserStack cloud, emulator, or real device: Appium, Selenide, JUnit, Allure, Jenkins
+📱 [wikipedia-android-ui-tests](https://github.com/nelakov/wikipedia-android-ui-tests) - mobile UI tests for the Wikipedia Android app. The same code runs on BrowserStack, an emulator, or a real device. Appium, Selenide, JUnit, Allure, Jenkins.
 
-🧪 [spring-api-testing-demo](https://github.com/nelakov/spring-api-testing-demo) — Spring Boot REST service (books / authors) + black-box REST-Assured suite: OpenAPI 3.1 / Swagger, Allure
+🧪 [spring-api-testing-demo](https://github.com/nelakov/spring-api-testing-demo) - Spring Boot books/authors REST service with a black-box REST-Assured suite. OpenAPI 3.1, Swagger, Allure.
 
-🔗 [rest-api-test-framework](https://github.com/nelakov/rest-api-test-framework) — REST API framework — contract-first JSON Schema validation, data-driven: REST-Assured, Allure, Swagger, Jenkins, Telegram
+🔗 [rest-api-test-framework](https://github.com/nelakov/rest-api-test-framework) - REST API tests with contract-first JSON Schema validation and data-driven cases. REST-Assured, Allure, Swagger, Jenkins, Telegram.
