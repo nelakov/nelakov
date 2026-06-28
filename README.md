@@ -22,9 +22,9 @@
 
 I set up QA from scratch on a fintech platform, then moved over to writing the backend. Six years across investments, origination/KYC, payments, and order management. Working both sides taught me where these systems break and how to keep them from breaking.
 
-Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges, custody, on-ramps, payment rails) runs on the same domains I already know: onboarding and KYC, money movement, order flow.
+Lately I'm focused on **blockchain infrastructure**. Regulated crypto (exchanges, custody, on-ramps, payment rails) runs on the same domains I already know: onboarding and KYC, transfers, and portfolio order flow.
 
-<a href="https://docs.google.com/document/d/1pezsazO8LrP1UdcnqO2H_y--jwydaup7/edit?usp=sharing&ouid=103994961142484846867&rtpof=true&sd=true">
+<a href="https://docs.google.com/document/d/109K6xTAPs1ZX_vGCksqUQQIhstiPyz4R736sJLC63xg/edit?tab=t.0">
   <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV"/>
 </a>
 
